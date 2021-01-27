@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/reactDineln/static/css/main.8fe23d73.chunk.css",
+    "main.js": "/reactDineln/static/js/main.832d68a5.chunk.js",
+    "main.js.map": "/reactDineln/static/js/main.832d68a5.chunk.js.map",
+    "runtime-main.js": "/reactDineln/static/js/runtime-main.ee9658a1.js",
+    "runtime-main.js.map": "/reactDineln/static/js/runtime-main.ee9658a1.js.map",
+    "static/css/2.f3f01324.chunk.css": "/reactDineln/static/css/2.f3f01324.chunk.css",
+    "static/js/2.43eb444f.chunk.js": "/reactDineln/static/js/2.43eb444f.chunk.js",
+    "static/js/2.43eb444f.chunk.js.map": "/reactDineln/static/js/2.43eb444f.chunk.js.map",
+    "static/js/3.c272b150.chunk.js": "/reactDineln/static/js/3.c272b150.chunk.js",
+    "static/js/3.c272b150.chunk.js.map": "/reactDineln/static/js/3.c272b150.chunk.js.map",
+    "index.html": "/reactDineln/index.html",
+    "static/css/2.f3f01324.chunk.css.map": "/reactDineln/static/css/2.f3f01324.chunk.css.map",
+    "static/css/main.8fe23d73.chunk.css.map": "/reactDineln/static/css/main.8fe23d73.chunk.css.map",
+    "static/js/2.43eb444f.chunk.js.LICENSE.txt": "/reactDineln/static/js/2.43eb444f.chunk.js.LICENSE.txt",
+    "static/media/Register.css": "/reactDineln/static/media/BG_phone.9dc878c3.png",
+    "static/media/offer.css": "/reactDineln/static/media/Mask.ce6b1cd3.png",
+    "static/media/ege.461b435f.png": "/reactDineln/static/media/ege.461b435f.png",
+    "static/media/ice.ed23b9bb.png": "/reactDineln/static/media/ice.ed23b9bb.png",
+    "static/media/p5.70e1c38c.png": "/reactDineln/static/media/p5.70e1c38c.png",
+    "static/media/rate.ac402560.png": "/reactDineln/static/media/rate.ac402560.png",
+    "static/media/s2.ed23b9bb.png": "/reactDineln/static/media/s2.ed23b9bb.png",
+    "static/media/s3.d0aeec70.png": "/reactDineln/static/media/s3.d0aeec70.png",
+    "static/media/x1.aab56f01.png": "/reactDineln/static/media/x1.aab56f01.png",
+    "static/media/x2.038d61a5.png": "/reactDineln/static/media/x2.038d61a5.png",
+    "static/media/x3.d97df9c3.png": "/reactDineln/static/media/x3.d97df9c3.png",
+    "static/media/x4.b096b5cb.png": "/reactDineln/static/media/x4.b096b5cb.png",
+    "static/media/x5.8c74269b.png": "/reactDineln/static/media/x5.8c74269b.png",
+    "static/media/x6.1d828350.png": "/reactDineln/static/media/x6.1d828350.png",
+    "static/media/x7.24878f31.png": "/reactDineln/static/media/x7.24878f31.png",
+    "static/media/x8.d1cb79e6.png": "/reactDineln/static/media/x8.d1cb79e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9658a1.js",
+    "static/css/2.f3f01324.chunk.css",
+    "static/js/2.43eb444f.chunk.js",
+    "static/css/main.8fe23d73.chunk.css",
+    "static/js/main.832d68a5.chunk.js"
+  ]
+}
