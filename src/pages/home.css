@@ -1,0 +1,6 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    height:vh;
+    padding: 10px;
+}

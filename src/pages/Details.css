@@ -1,0 +1,106 @@
+.detailsImg{
+    width: 303px;
+height: 325px;
+border: 1px solid #B9B9B9;
+border-radius: 15px;
+}
+.hh{
+    width: 310px;
+}
+.b1{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 41px;
+color: #151522;
+}
+.b2{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 300;
+font-size: 15px;
+line-height: 20px;
+margin-bottom: 30px;
+/* identical to box height, or 133% */
+
+
+/* Colors/Neutral/Black */
+
+color: #151522;
+}
+.detailsTotal{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+.p2{
+    display: flex;
+    flex-direction: row;
+    align-items:flex-end;
+    
+}
+.p22{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+color: #808080;
+margin-left: 15px;
+}
+.p3{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+color: #151522;
+margin-bottom: 5px;
+}
+.p4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.p44{
+    margin-left: 5px;
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 41px;
+/* identical to box height, or 273% */
+color: #7C7C7C;
+}
+.shopping{
+    margin-left: 40px;
+}
+.p5{
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
+    /* or 133% */
+    
+    
+    /* Colors/Neutral/Black */
+    
+    color: #151522; 
+}
+.ingredients{
+    margin-left: 5px;
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 41px;
+/* identical to box height, or 273% */
+
+
+color: #7C7C7C;
+}

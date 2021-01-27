@@ -1,0 +1,79 @@
+.imgCat{
+    background-size: cover;
+    width: 50vh;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+}
+
+.dd{
+    width: 50vh;
+    height: 50vh;
+}
+@media screen and (max-width: 600px) {
+    .imgCat{
+        background-size: cover;
+    width: 48vw;
+    height: 48vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+    }
+    .dd{
+        width: 48vw;
+        height: 48vw;
+    }
+    }
+
+.type{
+    background-color: #505254;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.tit{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* or 121% */
+
+display: flex;
+align-items: center;
+text-align: center;
+margin-bottom: 5px;
+
+/* Colors/Neutral/White */
+
+color: #FFFFFF;
+/* Button Shadows/Button - 12dp - Shadow */
+
+text-shadow: 0px 12px 12px rgba(50, 50, 71, 0.08), 0px 16px 24px rgba(50, 50, 71, 0.08);
+}
+.par{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 11px;
+line-height: 13px;
+/* identical to box height, or 118% */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Colors/Neutral/White */
+
+color: #FFFFFF;
+mix-blend-mode: normal;
+/* Button Shadows/Button - 4dp - Shadow */
+
+text-shadow: 0px 4px 4px rgba(50, 50, 71, 0.08), 0px 4px 8px rgba(50, 50, 71, 0.06);
+}

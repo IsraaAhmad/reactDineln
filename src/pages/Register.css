@@ -1,0 +1,121 @@
+
+  .input{
+    height: 50px;
+    width: 250px;
+background: #FFFFFF;
+/* Divider/Light/1px - 60% */
+border: 1px solid rgba(228, 228, 228, 0.6);
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 10px;
+}
+.pos{
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+
+}
+.totals{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 30px;
+
+}
+.registerBG{
+    background:url(../images/BG.png);
+    background-size:cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat; 
+}
+.member{
+    width: 130px;
+    height: 47px;
+    color: white;
+    background: #6546F9;
+
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 40px 0px 0px 40px;
+}
+.memberChef{
+    
+}
+.reg{
+    
+margin-top: 5px;
+height: 50px;
+background: #6979F8;
+border-radius: 5px;
+color: white;
+width: 250px;
+}
+.chef{
+    color: #6546F9;
+    background: white;
+    
+width: 130px;
+height: 47px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+
+
+border-radius: 0px 40px 40px 0px;
+
+}
+.registerBG{
+    background:url(../images/BG.png);
+    background-size:cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat; 
+}
+.backto{
+    margin: 30px;
+}
+.whi{
+    color: #FFFFFF;
+    font-size: 16px;
+}
+.ee{
+display: flex;
+}
+.si{
+    font-size: 16px;
+    margin-left: 4px; 
+}
+.testing1{
+    font-weight: bold;
+    font-size: small;
+    border: 2px solid red;
+    color: red;
+    background-color: white;
+    margin-top: 10px;
+    width: 250px;
+}
+@media screen and (max-width: 600px) {
+    .registerBG{
+        background:url(../images/BG_phone.png);
+        background-size:cover;
+        width: 100vw;
+        height: 100vh;
+        background-repeat: no-repeat; 
+    }
+    .totals{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content:flex-end;
+        padding-bottom: 80px;
+        align-items: center;
+        margin-bottom: 20px;
+    
+    }
+    }
+
+  

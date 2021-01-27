@@ -1,0 +1,13 @@
+.sign{
+   
+    height: 50px;
+    background: #6979F8;
+    border-radius: 5px;
+    color: white;
+    width: 250px;
+    margin-top: 10px;
+}
+.errAgree{
+    color: red;
+    font-weight: bold;
+}

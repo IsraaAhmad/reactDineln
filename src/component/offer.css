@@ -1,0 +1,109 @@
+.offer{
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 44px;
+text-align: center;
+padding-bottom: 10px;
+/* or 147% */
+
+
+/* Colors/Neutral/White */
+
+color: #FFFFFF;
+/* Button Shadows/Button - 12dp - Shadow */
+
+text-shadow: 0px 12px 12px rgba(50, 50, 71, 0.08), 0px 16px 24px rgba(50, 50, 71, 0.08);
+}
+.test{
+    
+
+}
+.top{
+    display: flex;
+    justify-content: center;
+}
+.par{
+    margin: 10px;
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+
+text-align: center;
+
+/* Colors/Neutral/White */
+
+color: #FFFFFF;
+mix-blend-mode: normal;
+}
+.get20{
+    margin: 20px;
+    font-family: Segoe UI;
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+/* or 121% */
+
+text-align: center;
+
+/* Colors/Neutral/White */
+
+color: #FFFFFF;
+}
+.inputgift{
+    background: #FFFFFF;
+    width: 20vw;
+
+/* Divider/Dark/1px - 60% */
+
+border: 1px solid rgba(255, 255, 255, 0.6);
+box-sizing: border-box;
+border-radius: 5px;
+width: 80vw;
+height: 40px;
+padding: 15px;
+}
+.giftimage{
+    margin-top: 20px;
+    width: 5vh;
+    height: 5vh;
+
+}
+.displayinput{
+    margin-top: 8px;
+    display: flex;
+    width: 50vw;
+    justify-content: center;
+}
+.gifttotal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gift{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+ background: #6979F8;
+border-radius: 10px;
+width: 80vw;
+height:50vh;
+margin: 5px;
+margin-right: 5px;
+}
+.BG_Offer{
+    margin-top: 10px;
+    background:url(../images/Mask.png);
+    background-size:cover;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items:flex-end;
+    justify-content:space-around;
+}
